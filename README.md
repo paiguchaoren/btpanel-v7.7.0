@@ -5,10 +5,6 @@ btpanel-v7.7.0-backup  官方原版v7.7.0版本面板备份
 
 ```Bash
 curl -sSO https://raw.githubusercontent.com/zhucaidan/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
-
-or
-
-curl -sSO https://raw.githubusercontent.com/paiguchaoren/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
 跳过登录框，以及破解插件等请自行搜索
